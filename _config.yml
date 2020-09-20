@@ -1,0 +1,39 @@
+title: 3dv and geometry
+lang: en
+description: blog
+url: https://3dv-geometry.github.io/
+baseurl: null
+theme: null
+
+debug:
+  compress: false
+  dist: false
+  extension: false
+
+readme_index:
+  with_frontmatter: true
+
+sass:
+  style: compress
+
+plugins:
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
+
+exclude:
+  - Makefile
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - requirements.txt
+  - node_modules
+  - package.json
+  - package-lock.json
+  - webpack.config.js
+  - jekyll-rtd-theme.gemspec
+
+comments:
+  disqus: true
+  disqus_url: https://your-disqus-username.disqus.com/embed.js
