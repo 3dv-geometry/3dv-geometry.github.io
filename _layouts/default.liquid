@@ -87,8 +87,8 @@ layout: plugins/compress
     <script src="{{ cdn }}/assets/js/theme{% if site.debug.dist != false %}.min{% endif %}.js"></script>
 
     <!-- my codes -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
-    <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.bootcss.com/gitalk/1.5.0/gitalk.min.css">
+    <script src="https://cdn.bootcss.com/gitalk/1.5.0/gitalk.min.js"></script>
 
 
 </head>
@@ -140,13 +140,12 @@ layout: plugins/compress
                     {{ content }}
                 </div>
             </div>
-            
-            <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
-            <div id="disqus_thread"></div>
+
             <div id="gitalk_container"></div>
 
-
             {% include footer.liquid %}
+            <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+
 
         </div>       
     </div>
@@ -164,7 +163,7 @@ layout: plugins/compress
               distractionFreeMode: '{{ site.comments.distractionFreeMode }}'  // Facebook-like distraction free mode
             })
 
-            gitalk.render('disqus_thread')
+            gitalk.render('gitalk_container')
     </script>
     {%- endif -%}
 

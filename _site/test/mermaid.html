@@ -11,7 +11,7 @@
     <!-- meta -->
     <meta name="description" content="Mermaid Test ```mermaid graph TB c1--&amp;gt;a2 subgraph one a1--&amp;gt;a2 end subgraph two b1--&amp;gt;b2 end subgraph three c1--&amp;gt;c2 end `...">
     <meta name="author" content="3dv-geometry">
-    <meta name="revised" content="757a7f096e6cc13a43d995583b3b9c5eafa58915">
+    <meta name="revised" content="96a7d9bb382d3bf748bb813a0334a72a0468ef9a">
     <meta name="generator" content="jekyll-rtd-theme v2.0.0-beta">
     <!-- meta-ogp -->
     
@@ -21,8 +21,8 @@
     <meta property="og:url" content="http://localhost:4000/test/mermaid.html">
     <meta property="og:type" content="article">
     <meta property="article:author" content="3dv-geometry">
-    <meta property="article:published_time" content="2020-09-20T20:48:40+08:00">
-    <meta property="article:modified_time" content="2020-09-20T20:48:40+08:00">
+    <meta property="article:published_time" content="2020-09-20T23:07:44+08:00">
+    <meta property="article:modified_time" content="2020-09-20T23:07:44+08:00">
     <!-- meta-custom -->
     <!-- schema -->
     <script type="application/ld+json">
@@ -39,8 +39,8 @@
                 "@type": "Person",
                 "name": "3dv-geometry"
             },
-            "datePublished": "2020-09-20T20:48:40+08:00",
-            "dateModified": "2020-09-20T20:48:40+08:00",
+            "datePublished": "2020-09-20T23:07:44+08:00",
+            "dateModified": "2020-09-20T23:07:44+08:00",
             "publisher": {
                 "@type": "Organization",
                 "name": "RunDocs",
@@ -80,8 +80,8 @@
     <script src="/assets/js/theme.js"></script>
 
     <!-- my codes -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
-    <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.bootcss.com/gitalk/1.5.0/gitalk.min.css">
+    <script src="https://cdn.bootcss.com/gitalk/1.5.0/gitalk.min.js"></script>
 
 
 </head>
@@ -334,11 +334,8 @@ classO .. classP
 
                 </div>
             </div>
-            
-            <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
-            <div id="disqus_thread"></div>
-            <div id="gitalk_container"></div>
 
+            <div id="gitalk_container"></div>
 
             <div class="navigation-bottom d-flex flex-justify-between py-3" role="navigation" aria-label="footer navigation">
             <div class="prev"><a href="/test/codes.html" class="btn" title="Code Blocks" accesskey="p" rel="prev">
@@ -356,6 +353,8 @@ classO .. classP
     </a>
 </div>
 
+            <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+
 
         </div>       
     </div>
@@ -366,12 +365,12 @@ classO .. classP
               clientSecret: 'f75baed9c1926c3ba7961c1205e64b7c0ce1f680',
               repo: '3dv-geometry.github.io',
               owner: '3dgv',
-              admin: '3dgv',
+              admin: '['3dgv']',
               id: location.pathname,      // Ensure uniqueness and length less than 50Mermaid Test
               distractionFreeMode: 'true'  // Facebook-like distraction free mode
             })
 
-            gitalk.render('disqus_thread')
+            gitalk.render('gitalk_container')
     </script><script src="/assets/js/mermaid.min.js"></script>
         <script>
             mermaid.initialize({});
