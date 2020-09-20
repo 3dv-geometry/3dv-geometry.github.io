@@ -36,4 +36,12 @@ exclude:
 
 comments:
   disqus: true
-  disqus_url: https://your-disqus-username.disqus.com/embed.js
+  disqus_url: https://3dv-geometry.disqus.com/embed.js
+  
+  gitalk: true
+  gitalk_clientID: '2d30cbc59f00709779e1'
+  gitalk_Secret: 'f75baed9c1926c3ba7961c1205e64b7c0ce1f680'
+  gitalk_repo: '3dv-geometry.github.io'
+  gitalk_owner: '3dgv'
+  gitalk_admin: '3dgv'
+  distractionFreeMode: true

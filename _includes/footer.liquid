@@ -31,11 +31,7 @@
     {%- else -%}
         {{ created_time }}-{{ updated_time }},
     {%- endif %}
-    <a class="text-gray" href="{{ site.github.owner_url }}" target="_blank">
+    <a class="text-gray" target="_blank">
         {{ site.github.owner_name }}
-    </a>
-    {{ site.data.translate.revision | default: "Revision" }}
-    <a class="text-gray" href="{{ site.github.repository_url }}/commit/{{ site.github.build_revision }}" title="{{ site.github.build_revision }}" target="_blank">
-        {{ site.github.build_revision | slice: 0, 7 }}
     </a>
 </div>
