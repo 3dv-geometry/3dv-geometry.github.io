@@ -2,7 +2,6 @@ title: 3dv and geometry
 lang: en
 description: blog
 url: https://3dv-geometry.github.io/
-baseurl: null
 theme: null
 
 debug:
@@ -35,14 +34,12 @@ exclude:
   - jekyll-rtd-theme.gemspec
 
 comments:
+  disqus: true
+
   gitalk: true
   gitalk_clientID: '2d30cbc59f00709779e1'
   gitalk_Secret: 'f75baed9c1926c3ba7961c1205e64b7c0ce1f680'
   gitalk_repo: '3dv-geometry.github.io'
   gitalk_owner: '3dgv'
-  gitalk_admin: "['3dgv']"
-  labels: "['Gitalk']"
-  perPage: 15
-  pagerDirection: last
-  createIssueManually: true
+  gitalk_admin: '3dgv'
   distractionFreeMode: true
