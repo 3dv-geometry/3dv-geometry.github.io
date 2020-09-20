@@ -34,12 +34,11 @@ exclude:
   - jekyll-rtd-theme.gemspec
 
 comments:
-  disqus: true
 
   gitalk: true
-  gitalk_clientID: '2d30cbc59f00709779e1'
-  gitalk_Secret: 'f75baed9c1926c3ba7961c1205e64b7c0ce1f680'
+  gitalk_clientID: '9b578af8b23301f608fd'
+  gitalk_Secret: 'db6c8649e36281a55ba221a7f99b20711ec6b68c'
   gitalk_repo: '3dv-geometry.github.io'
-  gitalk_owner: '3dgv'
-  gitalk_admin: '3dgv'
+  gitalk_owner: '3dv-geometry'
+  gitalk_admin: '3dv-geometry'
   distractionFreeMode: true
