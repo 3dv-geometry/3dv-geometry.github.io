@@ -1,8 +1,8 @@
 ---
-sort: 1
+sort: 3
 ---
 
-# Shape Generation
+# Geometry Feature Learning
 
 
 Related works:
