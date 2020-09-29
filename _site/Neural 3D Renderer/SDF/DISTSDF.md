@@ -1,3 +1,0 @@
-# DISTSDF
-
-source: `{{ page.path }}`

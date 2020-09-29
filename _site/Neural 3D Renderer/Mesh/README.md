@@ -1,4 +1,0 @@
-# Mesh
-
-
-source: `{{ page.path }}`

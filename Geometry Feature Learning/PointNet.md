@@ -4,22 +4,8 @@ sort: 2
 
 # PointNet
 
-1. Add the following to your github repository's `_config.yml`
+Charles R. Qi, Hao Su, Kaichun Mo, Leonidas J. Guibas
 
-```yml
-remote_theme: rundocs/jekyll-rtd-theme
-```
+CVPR 2017. [Github][Github]
 
-2. Remove any other `theme` or `remote_theme` entry
-
-## Quick start with remote theme method
-
-```tip
-This is recommended because bug fixes are the most timely
-```
-
-The new repository will generate with the same files and folders from [rundocs/starter-slim][repo], You can [preview the theme to see what it looks like][preview], or even [generate it today][generate].
-
-[repo]: https://github.com/rundocs/starter-slim/
-[preview]: https://rundocs.github.io/starter-slim/
-[generate]: https://github.com/rundocs/starter-slim/generate
+[Github]:https://github.com/charlesq34/pointnet

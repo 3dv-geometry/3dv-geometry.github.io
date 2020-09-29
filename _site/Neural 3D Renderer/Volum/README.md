@@ -1,3 +1,0 @@
-# Volum
-
-source: `{{ page.path }}`

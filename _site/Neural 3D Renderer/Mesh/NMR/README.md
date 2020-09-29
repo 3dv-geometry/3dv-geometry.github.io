@@ -1,3 +1,0 @@
-# NMR
-
-source: `{{ page.path }}`

@@ -1,3 +1,0 @@
-# SDF
-
-source: `{{ page.path }}`
