@@ -4,8 +4,9 @@ sort: 4
 
 # UV-Net: Learning from Curve-Networks and Solids
 
-[Pradeep Kumar Jayaraman](https://arxiv.org/search/cs?searchtype=author&query=Jayaraman%2C+P+K), [Aditya Sanghi](https://arxiv.org/search/cs?searchtype=author&query=Sanghi%2C+A), [Joseph Lambourne](https://arxiv.org/search/cs?searchtype=author&query=Lambourne%2C+J), [Thomas Davies](https://arxiv.org/search/cs?searchtype=author&query=Davies%2C+T), [Hooman Shayani](https://arxiv.org/search/cs?searchtype=author&query=Shayani%2C+H), [Nigel Morris](https://arxiv.org/search/cs?searchtype=author&query=Morris%2C+N)
+Pradeep Kumar Jayaraman, Aditya Sanghi, Joseph Lambourne, Thomas Davies, Hooman Shayani, Nigel Morris
 
-[arxiv](https://arxiv.org/abs/2006.10211) 
+[arxiv 2006.10211](https://arxiv.org/abs/2006.10211) 
 
-A encoder for boundary representation by viewing B-rep as face-adjacent graph.
+A encoder for boundary representation by taking face-adjacent graph as topology and extracting face feature via UV mapping.
+
