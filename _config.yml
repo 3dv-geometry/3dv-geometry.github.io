@@ -1,6 +1,6 @@
 title: 3DV and Geometry
 lang: en
-description: 
+description: Peking University
 url: https://3dv-geometry.github.io/
 theme: null
 
@@ -25,13 +25,6 @@ exclude:
   - CNAME
   - Gemfile
   - Gemfile.lock
-  - LICENSE
-  - requirements.txt
-  - node_modules
-  - package.json
-  - package-lock.json
-  - webpack.config.js
-  - jekyll-rtd-theme.gemspec
 
 comments:
 
