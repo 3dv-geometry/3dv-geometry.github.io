@@ -1,155 +1,195 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
-            <loc>http://localhost:4000/3DV/Localization/</loc>
-            <priority>0.1</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
+            <loc>http://localhost:4000/HowToUse/HowToUse.html</loc>
+            <priority>1.0</priority>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
         </url><url>
             <loc>http://localhost:4000/3DV/Localization/file1.html</loc>
             <priority>0.1</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
         </url><url>
             <loc>http://localhost:4000/3DV/Localization/file2.html</loc>
             <priority>0.1</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
         </url><url>
             <loc>http://localhost:4000/3DV/Localization/file3.html</loc>
             <priority>0.1</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
         </url><url>
             <loc>http://localhost:4000/3DV/Localization/folder2/</loc>
             <priority>0.1</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
         </url><url>
             <loc>http://localhost:4000/3DV/Localization/folder2/file1.html</loc>
             <priority>0.1</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
         </url><url>
             <loc>http://localhost:4000/3DV/Localization/folder2/file2.html</loc>
             <priority>0.1</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
         </url><url>
             <loc>http://localhost:4000/3DV/Localization/folder2/file3.html</loc>
             <priority>0.1</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
         </url><url>
             <loc>http://localhost:4000/3DV/Localization/folder2/folder1/</loc>
             <priority>0.1</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
         </url><url>
             <loc>http://localhost:4000/3DV/Localization/folder2/folder1/file1.html</loc>
             <priority>0.1</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
         </url><url>
             <loc>http://localhost:4000/3DV/Localization/folder2/folder1/file2.html</loc>
             <priority>0.1</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
         </url><url>
             <loc>http://localhost:4000/3DV/Localization/folder2/folder1/file3.html</loc>
             <priority>0.1</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
         </url><url>
             <loc>http://localhost:4000/3DV/Mapping/</loc>
             <priority>0.1</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
         </url><url>
             <loc>http://localhost:4000/3DV/Mapping/file1.html</loc>
             <priority>0.1</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
         </url><url>
             <loc>http://localhost:4000/3DV/Mapping/file2.html</loc>
             <priority>0.1</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
         </url><url>
             <loc>http://localhost:4000/3DV/Mapping/file3.html</loc>
             <priority>0.1</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
         </url><url>
             <loc>http://localhost:4000/3DV/Mapping/folder1/</loc>
             <priority>0.1</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
         </url><url>
             <loc>http://localhost:4000/3DV/Mapping/folder1/file1.html</loc>
             <priority>0.1</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
         </url><url>
             <loc>http://localhost:4000/3DV/Mapping/folder1/file2.html</loc>
             <priority>0.1</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
         </url><url>
             <loc>http://localhost:4000/3DV/Mapping/folder1/file3.html</loc>
             <priority>0.1</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
-        </url><url>
-            <loc>http://localhost:4000/HowToUse/HowToUse.html</loc>
-            <priority>1.0</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
         </url><url>
             <loc>http://localhost:4000/</loc>
             <priority>0.2</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
         </url><url>
-            <loc>http://localhost:4000/Single%20View%20Reconstruction/DISN-%20Deep%20Implicit%20Surface%20Network%20for%20High-quality%20Single-view%203D%20Reconstruction.html</loc>
+            <loc>http://localhost:4000/3DV/Localization/</loc>
+            <priority>0.1</priority>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
+        </url><url>
+            <loc>http://localhost:4000/Geometry/Shape-Editing-or-Deformation/</loc>
+            <priority>0.2</priority>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
+        </url><url>
+            <loc>http://localhost:4000/Practice/Preliminary/Generate%20a%20shape%20from%20X.html</loc>
             <priority>0.8</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
         </url><url>
-            <loc>http://localhost:4000/Geometry%20Feature%20Learning/PointCNN.html</loc>
+            <loc>http://localhost:4000/Geometry/Shape-Generation/</loc>
+            <priority>0.3</priority>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
+        </url><url>
+            <loc>http://localhost:4000/Geometry/Single-View-Reconstruction/DISN-%20Deep%20Implicit%20Surface%20Network%20for%20High-quality%20Single-view%203D%20Reconstruction.html</loc>
+            <priority>0.8</priority>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
+        </url><url>
+            <loc>http://localhost:4000/Geometry/Differentiable-Renderer/Neural%20Rerendering%20in%20the%20Wild.html</loc>
+            <priority>0.2</priority>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
+        </url><url>
+            <loc>http://localhost:4000/Geometry/</loc>
+            <priority>1.0</priority>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
+        </url><url>
+            <loc>http://localhost:4000/Geometry/Shape-Editing-or-Deformation/DeformSyncNet-%20Deformation%20Transfer%20via%20Synchronized%20Shape%20Deformation%20Spaces.html</loc>
+            <priority>1.0</priority>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
+        </url><url>
+            <loc>http://localhost:4000/Practice/Preliminary/</loc>
+            <priority>0.3</priority>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
+        </url><url>
+            <loc>http://localhost:4000/Geometry/Shape-Generation/Learning%20Representations%20and%20Generative%20Models%20for%203D%20Point%20Clouds.html</loc>
+            <priority>0.2</priority>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
+        </url><url>
+            <loc>http://localhost:4000/Geometry/Geometry-Feature-Learning/PointCNN.html</loc>
             <priority>0.1</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
-        </url><url>
-            <loc>http://localhost:4000/Shape%20Generation/Learning%20Representations%20and%20Generative%20Models%20for%203D%20Point%20Clouds.html</loc>
-            <priority>0.2</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
-        </url><url>
-            <loc>http://localhost:4000/Differentiable%20Renderer/Neural%20Rerendering%20in%20the%20Wild.html</loc>
-            <priority>0.2</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
-        </url><url>
-            <loc>http://localhost:4000/Shape%20Generation/</loc>
-            <priority>0.3</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
-        </url><url>
-            <loc>http://localhost:4000/Shape%20Generation/PolyGen.html</loc>
-            <priority>0.3</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
-        </url><url>
-            <loc>http://localhost:4000/Differentiable%20Renderer/DFR-%20Differentiable%20Function%20Rendering%20for%20Learning%203D%20Generation%20from%20Images.html</loc>
-            <priority>0.2</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
-        </url><url>
-            <loc>http://localhost:4000/Single%20View%20Reconstruction/Pixel2Mesh-%20Generating%203D%20Mesh%20Models%20from%20Single%20RGB%20Images.html</loc>
-            <priority>0.2</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
-        </url><url>
-            <loc>http://localhost:4000/Single%20View%20Reconstruction/</loc>
-            <priority>0.3</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
-        </url><url>
-            <loc>http://localhost:4000/Geometry%20Feature%20Learning/PointNet.html</loc>
-            <priority>0.1</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
-        </url><url>
-            <loc>http://localhost:4000/Geometry%20Feature%20Learning/MeshCNN.html</loc>
-            <priority>0.4</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
-        </url><url>
-            <loc>http://localhost:4000/Geometry%20Feature%20Learning/</loc>
-            <priority>0.3</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
-        </url><url>
-            <loc>http://localhost:4000/Shape%20Generation/ParSeNet.html</loc>
-            <priority>0.3</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
-        </url><url>
-            <loc>http://localhost:4000/Geometry%20Feature%20Learning/UV-Net.html</loc>
-            <priority>0.3</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
-        </url><url>
-            <loc>http://localhost:4000/Differentiable%20Renderer/</loc>
-            <priority>0.3</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
         </url><url>
             <loc>http://localhost:4000/3DV/</loc>
-            <priority>1.0</priority>
-            <lastmod>2020-10-01T19:46:17+08:00</lastmod>
+            <priority>0.8</priority>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
+        </url><url>
+            <loc>http://localhost:4000/Geometry/Geometry-Feature-Learning/PointNet.html</loc>
+            <priority>0.1</priority>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
+        </url><url>
+            <loc>http://localhost:4000/Geometry/Shape-Generation/PolyGen.html</loc>
+            <priority>0.3</priority>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
+        </url><url>
+            <loc>http://localhost:4000/Geometry/Single-View-Reconstruction/Pixel2Mesh-%20Generating%203D%20Mesh%20Models%20from%20Single%20RGB%20Images.html</loc>
+            <priority>0.2</priority>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
+        </url><url>
+            <loc>http://localhost:4000/Geometry/Single-View-Reconstruction/</loc>
+            <priority>0.3</priority>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
+        </url><url>
+            <loc>http://localhost:4000/Practice/Advance/</loc>
+            <priority>0.1</priority>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
+        </url><url>
+            <loc>http://localhost:4000/Practice/Preliminary/Shape%20editing.html</loc>
+            <priority>0.5</priority>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
+        </url><url>
+            <loc>http://localhost:4000/Geometry/Differentiable-Renderer/DFR-%20Differentiable%20Function%20Rendering%20for%20Learning%203D%20Generation%20from%20Images.html</loc>
+            <priority>0.2</priority>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
+        </url><url>
+            <loc>http://localhost:4000/Geometry/Shape-Generation/ParSeNet.html</loc>
+            <priority>0.3</priority>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
+        </url><url>
+            <loc>http://localhost:4000/Practice/Preliminary/Shape%20analysis.html</loc>
+            <priority>0.3</priority>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
+        </url><url>
+            <loc>http://localhost:4000/Geometry/Geometry-Feature-Learning/</loc>
+            <priority>0.3</priority>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
+        </url><url>
+            <loc>http://localhost:4000/Practice/</loc>
+            <priority>0.4</priority>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
+        </url><url>
+            <loc>http://localhost:4000/Geometry/Geometry-Feature-Learning/MeshCNN.html</loc>
+            <priority>0.4</priority>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
+        </url><url>
+            <loc>http://localhost:4000/Geometry/Differentiable-Renderer/</loc>
+            <priority>0.3</priority>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
+        </url><url>
+            <loc>http://localhost:4000/Practice/Preliminary/Special%20topics%20on%20Face,%20Body%20and%20Facades.html</loc>
+            <priority>0.2</priority>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
+        </url><url>
+            <loc>http://localhost:4000/Geometry/Geometry-Feature-Learning/UV-Net.html</loc>
+            <priority>0.3</priority>
+            <lastmod>2020-10-06T15:51:58+08:00</lastmod>
         </url>
 </urlset>
