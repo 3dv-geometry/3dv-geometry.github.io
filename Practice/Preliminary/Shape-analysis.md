@@ -6,12 +6,12 @@ sort: 3
 
 ### 1. More notations of differential geometry and its explanation
 
-### 1. Saliency detection
+### 2. Saliency detection
 
-### 2. Segmentation
+### 3. Segmentation
 
-### 3. Symmetry detection
+### 4. Symmetry detection
 
-### 4. Shape Grammar
+### 5. Shape Grammar
 
 E.g., procedural modeling, and the inverse process.
