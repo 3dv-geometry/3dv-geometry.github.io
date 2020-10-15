@@ -1,5 +1,5 @@
 ---
-sort: 1
+sort: 3
 ---
 
 # **Discovering Structural Regularity in 3D Geometry**

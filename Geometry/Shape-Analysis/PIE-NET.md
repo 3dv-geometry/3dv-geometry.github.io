@@ -1,5 +1,5 @@
 ---
-sort: 2
+sort: 4
 ---
 
 # PIE-NET: Parametric Inference of Point Cloud Edges
